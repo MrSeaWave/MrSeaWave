@@ -118,10 +118,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [定制 Github 主页](https://mrseawave.github.io/blogs/articles/2022/01/27/github-profile-readme/)
 - [Npm Script](https://mrseawave.github.io/blogs/articles/2022/01/27/npm-script/)
 - [使用 np 快速发布 npm 包](https://mrseawave.github.io/blogs/articles/2022/01/27/np-publish/)
 - [怎么发布 NPM 包](https://mrseawave.github.io/blogs/articles/2022/01/27/npm-publish/)
-- [阅读 only-allow](https://mrseawave.github.io/blogs/articles/2022/01/25/only-allow/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub States
