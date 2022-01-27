@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+![:MrSeaWave](https://count.getloli.com/get/@:MrSeaWave)
+
+
 [![MrSeaWave's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrSeaWave)](https://github.com/MrSeaWave/MrSeaWave)
+
+[![MrSeaWave's github activity graph](https://activity-graph.herokuapp.com/graph?username=MrSeaWave&theme=react-dark)](https://github.com/MrSeaWave/MrSeaWave)
+
 
 <!--
 **MrSeaWave/MrSeaWave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
