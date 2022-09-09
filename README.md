@@ -148,6 +148,7 @@ Here are some ideas to get you started:
 
 ### Thank you for the visit.
 
+<!-- 服务地址：https://replit.com/@SeaFlow/Moe-counter#Readme.md -->
 <!-- 也可以替换为自己的地址： https://moe-counter.seaflow.repl.co/get/@:MrSeaWave -->
 
 ![:MrSeaWave](https://count.getloli.com/get/@:MrSeaWave)
