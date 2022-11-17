@@ -118,10 +118,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git 仓库瘦身](https://mrseawave.github.io/blogs/articles/2022/11/16/reduce-git-repo/)
+- [从零安装必备软件](https://mrseawave.github.io/blogs/articles/2022/06/28/begin-install/)
 - [使用 depcheck 清理 package.json 中用不到的依赖](https://mrseawave.github.io/blogs/articles/2022/02/10/depcheck/)
 - [使用 renovate 监控第三方依赖更新](https://mrseawave.github.io/blogs/articles/2022/02/09/renovate/)
-- [定制 Github 主页](https://mrseawave.github.io/blogs/articles/2022/01/27/github-profile-readme/)
-- [Npm Script](https://mrseawave.github.io/blogs/articles/2022/01/27/npm-script/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub States
