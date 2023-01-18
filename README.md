@@ -118,10 +118,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [为什么更换图床](https://mrseawave.github.io/blogs/articles/2023/01/18/why-change-image-hosting/)
 - [第 02 菜谱：菜谱开动了！](https://mrseawave.github.io/blogs/articles/2023/01/16/02-weekly/)
 - [第 01 菜谱：周刊一锅端](https://mrseawave.github.io/blogs/articles/2023/01/16/01-weekly/)
 - [第 00 菜谱：自我介绍](https://mrseawave.github.io/blogs/articles/2023/01/16/00-weekly/)
-- [Git 仓库瘦身](https://mrseawave.github.io/blogs/articles/2022/11/16/reduce-git-repo/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub States
