@@ -118,10 +118,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [第 02 菜谱：菜谱开动了！](https://mrseawave.github.io/blogs/articles/2023/01/16/02-weekly/)
+- [第 01 菜谱：周刊一锅端](https://mrseawave.github.io/blogs/articles/2023/01/16/01-weekly/)
+- [第 00 菜谱：自我介绍](https://mrseawave.github.io/blogs/articles/2023/01/16/00-weekly/)
 - [Git 仓库瘦身](https://mrseawave.github.io/blogs/articles/2022/11/16/reduce-git-repo/)
-- [从零安装必备软件](https://mrseawave.github.io/blogs/articles/2022/06/28/begin-install/)
-- [使用 depcheck 清理 package.json 中用不到的依赖](https://mrseawave.github.io/blogs/articles/2022/02/10/depcheck/)
-- [使用 renovate 监控第三方依赖更新](https://mrseawave.github.io/blogs/articles/2022/02/09/renovate/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub States
