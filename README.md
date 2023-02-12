@@ -118,10 +118,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [第 05 菜谱：多学习点 CSS~](https://mrseawave.github.io/blogs/articles/2023/02/11/weekly-05/)
 - [第 04 菜谱：在浏览器控制台安装npm包是什么操作？](https://mrseawave.github.io/blogs/articles/2023/02/05/weekly-04/)
 - [第 03 菜谱：Web Development Trends in 2023](https://mrseawave.github.io/blogs/articles/2023/01/29/weekly-03/)
 - [为什么更换图床](https://mrseawave.github.io/blogs/articles/2023/01/18/why-change-image-hosting/)
-- [第 02 菜谱：菜谱开动了！](https://mrseawave.github.io/blogs/articles/2023/01/16/weekly-02/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub States
