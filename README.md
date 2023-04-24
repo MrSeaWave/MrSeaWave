@@ -118,10 +118,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [第 08 菜谱：React SSR 实现原理：从 renderToString 到 hydrate](https://mrseawave.github.io/blogs/articles/2023/04/23/weekly-08/)
 - [第 07 菜谱：How to Name your Types](https://mrseawave.github.io/blogs/articles/2023/04/15/weekly-07/)
 - [状态机](https://mrseawave.github.io/blogs/articles/2023/03/23/state-machine-1/)
 - [第 06 菜谱：Signal：更多前端框架的选择](https://mrseawave.github.io/blogs/articles/2023/02/26/weekly-06/)
-- [第 05 菜谱：多学习点 CSS~](https://mrseawave.github.io/blogs/articles/2023/02/11/weekly-05/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub States
