@@ -118,10 +118,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-- [阅读 remote-git-tags 源码](https://hailangya.com/blogs/articles/2023/11/18/remote-git-tags/)
-- [第 10 菜谱：前端性能优化](https://hailangya.com/blogs/articles/2023/06/17/weekly-10/)
-- [第 09 菜谱：Service Worker 使用 Workbox 预缓存实践](https://hailangya.com/blogs/articles/2023/06/10/weekly-09/)
-- [第 08 菜谱：React SSR 实现原理：从 renderToString 到 hydrate](https://hailangya.com/blogs/articles/2023/04/23/weekly-08/)
+- [阅读 remote-git-tags 源码](https://hailangya.com/articles/2023/11/18/remote-git-tags/)
+- [第 10 菜谱：前端性能优化](https://hailangya.com/articles/2023/06/17/weekly-10/)
+- [第 09 菜谱：Service Worker 使用 Workbox 预缓存实践](https://hailangya.com/articles/2023/06/10/weekly-09/)
+- [第 08 菜谱：React SSR 实现原理：从 renderToString 到 hydrate](https://hailangya.com/articles/2023/04/23/weekly-08/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub States
