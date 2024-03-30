@@ -118,10 +118,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prettier V3 中英文之间不支持空格](https://hailangya.com/articles/2024/03/30/prettier-lint-space/)
 - [GitHub Pages 绑定个人域名](https://hailangya.com/articles/2024/03/23/github-bind-domain/)
 - [阅读 remote-git-tags 源码](https://hailangya.com/articles/2023/11/18/remote-git-tags/)
 - [第 10 菜谱：前端性能优化](https://hailangya.com/articles/2023/06/17/weekly-10/)
-- [第 09 菜谱：Service Worker 使用 Workbox 预缓存实践](https://hailangya.com/articles/2023/06/10/weekly-09/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub States
