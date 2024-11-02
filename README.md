@@ -118,10 +118,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nas 家庭影音的搭建](https://hailangya.com/articles/2024/11/02/nas-video/)
 - [如何为一个项目添加多个远程仓库](https://hailangya.com/articles/2024/08/18/add-remote-repo/)
 - [Prettier V3 中英文之间不支持空格](https://hailangya.com/articles/2024/03/30/prettier-lint-space/)
 - [GitHub Pages 绑定个人域名](https://hailangya.com/articles/2024/03/23/github-bind-domain/)
-- [阅读 remote-git-tags 源码](https://hailangya.com/articles/2023/11/18/remote-git-tags/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub States
