@@ -118,10 +118,10 @@ Here are some ideas to get you started:
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如何让Mac长按一个按键连续输入](https://hailangya.com/articles/2024/11/23/simple-ways-to-set-macos-consecutive-input/)
 - [Nas 家庭影音的搭建](https://hailangya.com/articles/2024/11/02/nas-video/)
 - [如何为一个项目添加多个远程仓库](https://hailangya.com/articles/2024/08/18/add-remote-repo/)
 - [Prettier V3 中英文之间不支持空格](https://hailangya.com/articles/2024/03/30/prettier-lint-space/)
-- [GitHub Pages 绑定个人域名](https://hailangya.com/articles/2024/03/23/github-bind-domain/)
 <!-- BLOG-POST-LIST:END -->
 
 ### GitHub States
